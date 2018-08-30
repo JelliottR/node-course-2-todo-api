@@ -21,16 +21,16 @@
     "express": "^4.16.3",
     "jsonwebtoken": "^8.3.0",
     "lodash": "^4.17.10",
-    "mongodb": "^3.1.1",
-    "mongoose": "^5.2.8",
-    "npm": "^6.3.0",
+    "mongodb": "^3.1.4",
+    "mongoose": "^5.2.12",
+    "npm": "^6.4.1",
     "request": "^2.88.0",
     "validator": "^10.7.0"
   },
   "devDependencies": {
-    "expect": "^1.20.2",
+    "expect": "^23.5.0",
     "mocha": "^5.2.0",
-    "nodemon": "^1.18.3",
+    "nodemon": "^1.18.4",
     "supertest": "^3.1.0"
   }
 }
